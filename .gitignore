@@ -7,3 +7,5 @@ hairless-midiserial
 *~
 Makefile
 *#
+.idea/
+.DS_Store
