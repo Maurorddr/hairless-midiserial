@@ -3,7 +3,7 @@
 # Project created by QtCreator 2011-08-08T17:57:42
 #
 #-------------------------------------------------
-
+QT += widgets
 QT       += core gui
 
 TARGET = hairless-midiserial

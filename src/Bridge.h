@@ -43,7 +43,7 @@ signals:
     void midiSent();
     void serialTraffic();
 private slots:
-    void onMidiIn(double timeStamp, QByteArray message);
+    void onMidiIn(QByteArray message);
     void onSerialAvailable();
 private:
     void sendMidiMessage();
